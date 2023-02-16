@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(113, 164, 240);
+    background-color:beige;
 }
 a {
     color: black;
@@ -15,4 +15,14 @@ h1{
     text-decoration: underline;
     font-style: italic;
     font-size: 36px;
+}
+.page {
+    background-color: rgb(240, 209, 107);
+}
+li,
+p {
+    font-size: 20px;
+}
+h2 {
+    font-size: 26px;
 }
